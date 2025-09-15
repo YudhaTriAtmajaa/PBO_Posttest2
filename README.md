@@ -171,7 +171,7 @@ Apabila menginputkan angka yang tidak ada, maka output nya nomor bahan tidak val
 <img width="643" height="255" alt="Screenshot 2025-09-15 195456" src="https://github.com/user-attachments/assets/13527c5a-8d77-46eb-a42b-e7c9f1d5cde3" />
 
 
-### Menu 5 -> Cari Bahan
+### Menu 5 -> Cari Bahan (Search)
 
 User meningputkan angka 5 untuk masuk ke menu cari bahan, dan menginputkan huruf bahan yang diinginkan
 
@@ -182,9 +182,9 @@ Setelah menginput angka 5 cari bahan, apabila menginput angka pada menu ini maka
 <img width="425" height="341" alt="image" src="https://github.com/user-attachments/assets/ed91fa34-6673-431e-89ad-d52e4ac24c5e" />
 
 
-### Menu 6 -> Keluar
+### Menu 6 -> Keluar (Exit)
 
-* Output apabila menginput angka 6 yaitu keluar dari program:
+* Output apabila menginput angka 6 yaitu keluar dari program
 
 <img width="815" height="494" alt="image" src="https://github.com/user-attachments/assets/4e8497d4-0e8c-4443-8222-b2829ad97d2c" />
 
