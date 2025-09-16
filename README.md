@@ -84,7 +84,11 @@ final -> digunakan pada ArrayList<Bahan> inventaris agar variabel list tidak bis
 
 # Validasi input
 
+- CLass Inventaris
 <img width="718" height="297" alt="image" src="https://github.com/user-attachments/assets/c656131d-dc79-43d1-a580-723975afdf45" />
+
+- Class MainApp
+<img width="655" height="198" alt="image" src="https://github.com/user-attachments/assets/956586e4-2dff-4ee5-9bee-5cec9f4a69b8" />
 
 Fungsi ini bertugas untuk memvalidasi input pengguna supaya hanya menerima angka, mencegah error akibat input yang salah
 
