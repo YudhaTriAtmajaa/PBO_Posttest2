@@ -15,7 +15,7 @@ Program ini adalah aplikasi sederhana berbasis Java yang berfungsi untuk mengelo
 5. Cari Bahan -> Untuk mencari bahan dengan keyword untuk memudahkan pengguna
 6. Keluar -> Mengakhiri program.
 
-# Menerapkan packages, memisahkan class berdasarkan fungsinya
+# Menerapkan packages, memisahkan class, dan MVC berdasarkan fungsinya
 - packages main > MainApp.java
 - packages service > Inventaris.java
 - packages model > Bahan.java
@@ -81,16 +81,6 @@ public -> digunakan pada constructor, getter, setter, dan method di Inventaris s
 
 final -> digunakan pada ArrayList<Bahan> inventaris agar variabel list tidak bisa diganti referensinya, tapi isinya masih bisa dimodifikasi
 
-# Penerapan MVC 
-
-- Model (Model.Bahan)
-Berisi data atau representasi objek nyata (bahan dapur). Class ini hanya fokus pada penyimpanan data dan menyediakan getter & setter
-
-- View (Console di MainApp)
-Menyediakan antarmuka berupa menu di console untuk berinteraksi dengan user (input dan output). Contoh: menampilkan daftar inventaris, meminta input menu
-
-- Controller (Service.Inventaris)
-Berfungsi mengatur logika aplikasi. Class ini menangani semua operasi CRUD (tambah, lihat, update, hapus) serta pencarian bahan. Controller menerima input dari MainApp (View), lalu memproses data menggunakan Bahan (Model), dan akhirnya mengembalikan hasil ke user lewat console
 
 # Validasi input
 
